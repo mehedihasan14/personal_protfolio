@@ -43,6 +43,15 @@ img {
     width: 100%;
 }
 
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    /* background-color: #f90a0a00; */
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
 /* 1. end of reset style css
 -----------------------------------------------------------------------------------------------
 ===============================================================================================*/
